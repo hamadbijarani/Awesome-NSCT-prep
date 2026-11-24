@@ -7,11 +7,11 @@ Built for the ~8 weeks between late November 2026 and the tentative NSCT dates o
 - **Weights first, weak areas second.** Problem Solving is 20%; the seven core areas are 10% each; OS and Cyber are 5% each. In 2026 the lowest national averages were OS (33.8), Networks (39.6), DSA (40.2) and Databases (42.3) — these are cheap marks if revised.
 - **One bank for volume, one mock engine for timing.** Use [nsctprep.dev](https://nsctprep.dev) (or the local 2,170-MCQ bank) for topic practice and [nscttest.com](https://nscttest.com) / [nscttestpreparation.online](https://nscttestpreparation.online/) for full-length mocks.
 - **Keep an error log.** For every wrong answer, write the topic, the rule, and why you got it wrong. Revisit it in weeks 7–8.
-- **No official past papers exist.** Anything sold as one is fake. Practice from the [official competency list](https://nsct.hec.gov.pk/AreasOfCompetencies).
+- **No official past papers exist.** Anything sold as one is fake. Practice from the [official competency list](https://nsct.hec.gov.pk/AreasOfCompetencies) ([PDF version](https://nsct.hec.gov.pk/Area%20of%20Competencies%20-%20National%20Skill%20Competency%20Test.pdf)).
 
 ## Week 1 — Diagnostic + Problem Solving
 
-- Read the official competency list and note all ~149 topics.
+- Read the official competency list and note all **149 topics** (topic counts per area: PS 16, Programming 16, DSA 12, Databases 17, SE 16, Web 17, Networks 10, AI/ML 17, OS 12, Cyber 16).
 - Take one timed baseline mock (100 Q / 120 min). Record per-area scores.
 - Study Problem Solving daily: logic, patterns, number series, flowcharts, basic complexity, truth tables.
 - Practice: 200+ easy/medium MCQs in Problem Solving; [HackerRank Algorithms](https://www.hackerrank.com/domains/algorithms); [LeetCode Easy](https://leetcode.com/problemset/?difficulty=EASY).

@@ -29,56 +29,72 @@ Built for Pakistani CS/IT students sitting NSCT 2027 (tentatively **23–24 Janu
 
 ## Exam basics
 
-| Item | What is known (Nov 2026) |
-|---|---|
-| Full form | National Skill Competency Test (NSCT) |
-| Owner / testing body | HEC, with MoITT, PSEB, P@SHA, NCEAC; VU ran the 2026 computer-based test. 2027 also names the Education Testing Council — check your roll number slip. |
-| Who sits it | All 7th & 8th semester students of computing/IT programmes (CS, IT, SE, AI, Data Science and related), including sub-campuses and affiliated colleges |
-| 2027 dates | 23–24 January 2027 (**tentative**); registration window and fee not announced yet |
-| Format | First sitting (April 2026): **100 MCQs / 120 minutes**, CBT. HEC has not published 2027 specifics. |
-| Negative marking | None reported in 2026 by secondary sources; not officially published |
-| Past papers | **None official.** Anyone selling an "official past paper" is not selling an HEC document. |
-| Syllabus | 10 competency areas / ~149 topics; weightages below are from 2026 — confirm for 2027 |
-| Registration | Through your university's **NSCT focal person**, then the official portal |
+| Item                 | What is known (verified 24 Nov 2026)                                                                                                                                                                                |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Full form            | National Skill Competency Test (NSCT)                                                                                                                                                                               |
+| Owner / testing body | HEC with MoITT, PSEB, P@SHA and NCEAC. Virtual University ran the 2026 computer-based test; the 2027 APP announcement also names the Education Testing Council. Confirm the exam-day body on your roll number slip. |
+| Who sits it          | All 7th & 8th semester students of computing/IT programmes (CS, IT, SE, AI, Data Science and related) at HEC-recognised universities, including sub-campuses and affiliated colleges                                |
+| 2027 dates           | 23–24 January 2027 (**tentative**, announced via APP on 10 Nov 2026). As of 24 Nov 2026 the official portal still shows the 2026 schedule; registration window and fee are not announced.                           |
+| Format               | First sitting (April 2026): 100 MCQs / 100 marks / 120 minutes, CBT (reported by ProPakistani; HEC has not published 2027 specifics)                                                                                |
+| Negative marking     | None reported in 2026 by secondary sources; not officially published                                                                                                                                                |
+| Past papers          | **NA**                                                                                                                                                                                                              |
+| Syllabus             | 10 competency areas / **149 topics**, with weightages published by HEC (table below). No 2027 revision published yet.                                                                                               |
+| Registration         | Through your university's **NSCT focal person**, then the [official portal](https://nsct.hec.gov.pk). Check the portal and your university notice regularly.                                                        |
 
-**2026 weightages** (confirm on the [official competencies page](https://nsct.hec.gov.pk/AreasOfCompetencies)):
+**Official published weightages** — from HEC's [Areas of Competencies](https://nsct.hec.gov.pk/AreasOfCompetencies) page (verified 24 Nov 2026; no revised 2027 figures published). Topic counts are the HEC's own, summing to 149:
 
-| Area | Weight | Area | Weight |
-|---|---|---|---|
-| Problem Solving & Analytical Skills | 20% | Web Development | 10% |
-| Programming (C++ / Java / Python) | 10% | Computer Networks & Cloud Computing | 10% |
-| Data Structures & Algorithms | 10% | AI / ML & Data Analytics | 10% |
-| Databases | 10% | Operating Systems | 5% |
-| Software Engineering | 10% | Cyber Security | 5% |
+| Area                                | Weight  | Official topics |
+| ----------------------------------- | ------- | --------------- |
+| Problem Solving & Analytical Skills | **20%** | 16              |
+| Programming (C++ / Java / Python)   | 10%     | 16              |
+| Data Structures & Algorithms        | 10%     | 12              |
+| Databases                           | 10%     | 17              |
+| Software Engineering                | 10%     | 16              |
+| Web Development                     | 10%     | 17              |
+| Computer Networks & Cloud Computing | 10%     | 10              |
+| AI / ML & Data Analytics            | 10%     | 17              |
+| Operating Systems                   | **5%**  | 12              |
+| Cyber Security                      | **5%**  | 16              |
 
-**2026 national average by area** (from the [HEC Overview Report](https://hec.gov.pk/english/scholarshipsgrants/Documents/Complete%20NSCT%20Report%20and%20Analytics.pdf)): Web Development 54.1, AI/ML 50.8, Software Engineering 50.1, Problem Solving 49.1, Programming 47.8, Cyber Security 47.2, Databases 42.3, DSA 40.2, Networks & Cloud 39.6, **Operating Systems 33.8** (weakest nationwide). National average overall: 46.28/100. Use this to prioritise besides the weightages.
+> Some third-party guides claim HEC never published weightages. The official Areas of Competencies page does publish them; always verify there, and treat any cycle change as unannounced until it appears on `nsct.hec.gov.pk` or in your student guide.
+
+**2026 national average by area** (from the [HEC Overview Report](https://www.hec.gov.pk/english/scholarshipsgrants/Documents/Complete%20NSCT%20Report%20and%20Analytics.pdf)): Web Development 54.1, AI/ML 50.8, Software Engineering 50.1, Problem Solving 49.1, Programming 47.8, Cyber Security 47.2, Databases 42.3, DSA 40.2, Networks & Cloud 39.6, **Operating Systems 33.8** (weakest nationwide). National average overall: 46.28/100. Use this to prioritise besides the weightages.
 
 ## 1. Official sources (start here)
 
-- [Official NSCT portal](https://nsct.hec.gov.pk) — registration, notices, results. The only authoritative source.
-- [Areas of Competencies](https://nsct.hec.gov.pk/AreasOfCompetencies) — the **exact topic list** (~149 topics) and weightages. Use this as your syllabus.
+**Syllabus, registration and notices**
+
+- [Official NSCT portal](https://nsct.hec.gov.pk) — registration, notices, results; the only authoritative source. Currently still displays the 2026 schedule.
+- [Areas of Competencies](https://nsct.hec.gov.pk/AreasOfCompetencies) — the **official topic list (149 topics) and weightages** for all 10 areas. Use this as your syllabus.
+- [Areas of Competencies — official PDF](https://nsct.hec.gov.pk/Area%20of%20Competencies%20-%20National%20Skill%20Competency%20Test.pdf) — the same list as a PDF, linked from the VU notices; handy offline.
 - [Student Guide (PDF)](https://nsct.hec.gov.pk/Student%20Guide.pdf) — registration steps and rules.
 - [Focal Person User Guide (PDF)](https://nsct.hec.gov.pk/Focal%20Person%20User%20Guide.pdf) — how your university registers you.
-- [HEC NSCT 2026 result announcement](https://hec.gov.pk/english/HECAnnouncements/Pages/NSCT-Result.aspx) — first-sitting results and benchmarks.
-- [University-wise performance](https://hec.gov.pk/english/scholarshipsgrants/Pages/Sites/NSCT-University.aspx) and [top-performing students](https://hec.gov.pk/english/scholarshipsgrants/Pages/Sites/NSCT-Students.aspx).
-- [Individual subject-wise result](https://hec.gov.pk/english/scholarshipsgrants/Pages/Sites/Result-NSCT.aspx) — check with CNIC (without dashes).
-- [HEC NSCT Overview Report & Analytics (PDF)](https://hec.gov.pk/english/scholarshipsgrants/Documents/Complete%20NSCT%20Report%20and%20Analytics.pdf) — the best factual source on the 2026 paper.
-- [HEC news: first-ever NSCT in 112 cities](https://hec.gov.pk/english/news/news/Pages/HEC-Conducts-First-ever-National-Skill-Competency-Test-in-112-Cities.aspx).
-- [Virtual University NSCT notice](https://vu.edu.pk/NewsDetails?NewsId=9417&type=) and [mandatory registration notice](https://vu.edu.pk/NewsDetails?NewsId=9419&type=).
-- VU help desk (from T4Tutorials): `nsct@vu.edu.pk` · 042-99204760 / 042-99203899 · WhatsApp 03000656905/06/07/08.
+- [HEC's official NSCT 2027 announcement post](https://www.facebook.com/HECPakistan2002/posts/1577454784421504/) — mandatory-participation notice and tentative dates (HEC's verified Facebook page; also carried by APP on 10 Nov 2026).
+- [Virtual University NSCT notice](https://www.vu.edu.pk/NewsDetails?NewsId=9417&type=) and [mandatory registration notice](https://www.vu.edu.pk/NewsDetails?NewsId=9419) — latest published VU notices (2026 cycle); they contain the official competency-PDF link and registration steps.
+- VU NSCT help desk (from the official VU notices): `focalperson-nsct@vu.edu.pk` · 042-99204760 / 042-99203899 · WhatsApp 03000656905/06/07/08.
+
+**Results, report and advisories (all 2026 cycle, all live as of 24 Nov 2026)**
+
+- [HEC NSCT 2026 result announcement](https://www.hec.gov.pk/english/HECAnnouncements/Pages/NSCT-Result.aspx) — the hub linking every official result document below.
+- [University-wise performance](https://www.hec.gov.pk/english/scholarshipsgrants/Pages/Sites/NSCT-University.aspx) · [top-performing students](https://www.hec.gov.pk/english/scholarshipsgrants/Pages/Sites/NSCT-Students.aspx) · [bottom 20% institutions](https://www.hec.gov.pk/english/scholarshipsgrants/Pages/Sites/NSCT-Bottom-HEIs.aspx).
+- [Individual subject-wise result](https://www.hec.gov.pk/english/scholarshipsgrants/Pages/Sites/Result-NSCT.aspx) — check with CNIC (without dashes).
+- [Congratulations! Top Achievers of NSCT 2026](https://www.hec.gov.pk/english/HECAnnouncements/Pages/NSCT-Achievers.aspx) and [Student Advisory — Suspended Computing Programs](https://www.hec.gov.pk/english/HECAnnouncements/Pages/Student-Advisory.aspx).
+- [HEC NSCT Overview Report & Analytics (PDF)](https://www.hec.gov.pk/english/scholarshipsgrants/Documents/Complete%20NSCT%20Report%20and%20Analytics.pdf) — the best factual source on the 2026 paper; includes all area averages.
+- [NSCT at a glance (official HEC graphic)](https://www.hec.gov.pk/english/HECAnnouncements/PublishingImages/NSCT/Announcement%201.jpeg) and [Parents / Students Alert](https://www.hec.gov.pk/english/HECAnnouncements/PublishingImages/NSCT/Announcement%202.jpeg.jpg.jpeg).
+- [HEC news: first-ever NSCT in 112 cities](https://www.hec.gov.pk/english/news/news/Pages/HEC-Conducts-First-ever-National-Skill-Competency-Test-in-112-Cities.aspx).
 
 ## 2. All-in-one NSCT platforms
 
-| Resource | Highlights | Cost |
-|---|---|---|
-| [NSCT Prep — nsctprep.dev](https://nsctprep.dev) | Largest independent bank: 149 topics across 10 subjects, 25k–34k+ explained MCQs advertised across site pages, 3 difficulty levels, quiz builder, per-subject PDFs, 2,518 KFUEIT university MCQs. Built by a 96.7th-percentile NSCT scorer. | Free, no signup |
-| [NSCTTest — nscttest.com](https://nscttest.com) | Full-length **100 questions / 120 minutes** timed simulator, custom test builder, instant weak-area diagnostics, strategy articles | Free |
-| [NSCTPrep — nsctprep.com](https://nsctprep.com) | 2,200+ curated MCQs, cheat sheets, flashcards, SQL playground, code tracer, tree visualizer, subnetting tool, Big-O graph, 6-week roadmap | Free |
-| [NSCT Test Preparation](https://nscttestpreparation.online/) | Full syllabus, 5-question diagnostic, subject MCQs, 100-Q/120-min mock, sourced FAQ with 2026 statistics | Free, no signup |
-| [Prep With Umar](https://prepwithumar.com/) | 1,000 explained MCQs, mocks weighted like the real paper, 3 difficulty levels, dashboard across 149 topics | Free |
-| [Prepzy](https://prepzy.tech/nsct) | 60-minute timed quiz: 70 fixed MCQs + 30 AI-generated MCQs; per-email attempt record. **Verify AI answers.** | Free trial, email required |
-| [DevDiary NSCT mock](https://www.devdiary.live/nsct-mock/) | 60 checked questions / 72 minutes, per-area score — good for a quick baseline | Free |
-| [T4Tutorials NSCT hub](https://t4tutorials.pk/nsct/) | Topic-wise MCQ pages for all 10 areas (Network Layer, Query Optimization, Concurrency Control, DSA, etc.); online free, optional ~PKR 500 PDF | Free online |
+| Resource                                                     | Highlights                                                                                                                                                                                                                                  | Cost                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [NSCT Prep — nsctprep.dev](https://nsctprep.dev)             | Largest independent bank: 149 topics across 10 subjects, 25k–34k+ explained MCQs advertised across site pages, 3 difficulty levels, quiz builder, per-subject PDFs, 2,518 KFUEIT university MCQs. Built by a 96.7th-percentile NSCT scorer. | Free, no signup            |
+| [NSCTTest — nscttest.com](https://nscttest.com)              | Full-length **100 questions / 120 minutes** timed simulator, custom test builder, instant weak-area diagnostics, strategy articles                                                                                                          | Free                       |
+| [NSCTPrep — nsctprep.com](https://nsctprep.com)              | 2,200+ curated MCQs, cheat sheets, flashcards, SQL playground, code tracer, tree visualizer, subnetting tool, Big-O graph, 6-week roadmap                                                                                                   | Free                       |
+| [NSCT Test Preparation](https://nscttestpreparation.online/) | Full syllabus, 5-question diagnostic, subject MCQs, 100-Q/120-min mock, sourced FAQ with 2026 statistics                                                                                                                                    | Free, no signup            |
+| [Prep With Umar](https://prepwithumar.com/)                  | 1,000 explained MCQs, mocks weighted like the real paper, 3 difficulty levels, dashboard across 149 topics                                                                                                                                  | Free                       |
+| [Prepzy](https://prepzy.tech/nsct)                           | 60-minute timed quiz: 70 fixed MCQs + 30 AI-generated MCQs; per-email attempt record. **Verify AI answers.**                                                                                                                                | Free trial, email required |
+| [DevDiary NSCT mock](https://www.devdiary.live/nsct-mock/)   | 60 checked questions / 72 minutes, per-area score — good for a quick baseline                                                                                                                                                               | Free                       |
+| [T4Tutorials NSCT hub](https://t4tutorials.pk/nsct/)         | Topic-wise MCQ pages for all 10 areas (Network Layer, Query Optimization, Concurrency Control, DSA, etc.); online free, optional ~PKR 500 PDF                                                                                               | Free online                |
 
 ## 3. Open-source repos
 
@@ -142,51 +158,61 @@ Built for Pakistani CS/IT students sitting NSCT 2027 (tentatively **23–24 Janu
 These are the long-form courses and practice sites to use **when a topic is weak** — the MCQ banks above are for testing, these are for learning. (Playlists and links preserved from `NSCT_File_00_Master-Resources.pdf`.)
 
 **1. Problem Solving & Analytical Skills (20%)**
+
 - English: [CS50x](https://www.youtube.com/playlist?list=PLhQjrBD2T380hlTqAU8HfvVepCcjCqTg6) · [NeetCode patterns](https://www.youtube.com/playlist?list=PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_)
 - Urdu/Hindi: [Striver A2Z](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz) · [Apna College logic building](https://www.youtube.com/watch?v=3xC0F9bj9FU)
 - Practice: [HackerRank Algorithms](https://www.hackerrank.com/domains/algorithms) · [LeetCode Easy](https://leetcode.com/problemset/?difficulty=EASY)
 
 **2. Programming (10%)**
+
 - English: [freeCodeCamp Python](https://www.youtube.com/watch?v=rfscVS0vtbw) · [freeCodeCamp C++](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 - Hindi: [Code With Harry Python](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg) · [Code With Harry C++](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
 - Practice: [HackerRank Python](https://www.hackerrank.com/domains/python) · [Java](https://www.hackerrank.com/domains/java) · [Replit Python](https://replit.com/languages/python3) · [Replit C++](https://replit.com/languages/cpp)
 
 **3. Data Structures & Algorithms (10%)**
+
 - English: [Abdul Bari algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) · [NeetCode DSA](https://www.youtube.com/playlist?list=PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_)
 - Hindi: [Striver A2Z DSA](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz) · [Code With Harry DSA](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
 - Practice: [LeetCode problemset](https://leetcode.com/problemset/) · [VisuAlgo](https://visualgo.net/en)
 
 **4. Databases (10%)**
+
 - English: [freeCodeCamp SQL](https://www.youtube.com/watch?v=HXV3zeQKqGY) · [Database design & normalization](https://www.youtube.com/watch?v=ztHopE5Wnpc)
 - Hindi: [Gate Smashers DBMS](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) · [Code With Harry SQL](https://youtu.be/yE6tIle64tU)
 - Practice: [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) · [LeetCode SQL](https://leetcode.com/problemset/?topicSlugs=database&difficulty=EASY)
 
 **5. Software Engineering (10%)**
+
 - English: [Fireship design patterns](https://www.youtube.com/watch?v=tv-_1er1mWI) · [CrashCourse SE](https://www.youtube.com/watch?v=O753uuutqH8)
 - Hindi: [Gate Smashers SE](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2) · [5 Minutes Engineering](https://youtu.be/Wnk_pArBylM)
 - Practice: [Sanfoundry SE MCQs](https://www.sanfoundry.com/software-engineering-questions-answers/) · [GeeksForGeeks SE](https://www.geeksforgeeks.org/software-engineering/)
 
 **6. Web Development (10%)**
+
 - English: [Traversy HTML/CSS](https://www.youtube.com/watch?v=UB1O30fR-EE) · [Traversy JavaScript](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 - Hindi: [Code With Harry web dev](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) · [Apna College JavaScript](https://www.youtube.com/playlist?list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW)
 - Practice: [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design-v9) · [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
 **7. Computer Networks & Cloud Computing (10%)**
+
 - English: [NetworkChuck CCNA](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P) · [PowerCert](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg)
 - Hindi: [Gate Smashers CN](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) · [Geeky Hub CN](https://www.youtube.com/playlist?list=PLKWMn2eUhI2Bf5bp3hrK02hBdEGqTQRBB)
 - Practice: [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) · [GeeksForGeeks CN](https://www.geeksforgeeks.org/computer-network-tutorials/)
 
 **8. AI / ML & Data Analytics (10%)**
+
 - English: [StatQuest ML](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) · [freeCodeCamp ML](https://www.youtube.com/watch?v=i_LwzRVP7bg)
 - Hindi: [Krish Naik ML](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe) · [CampusX Data Science](https://www.youtube.com/playlist?list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z)
 - Practice: [Kaggle Learn](https://www.kaggle.com/learn) · [Google Colab](https://colab.research.google.com)
 
 **9. Operating Systems (5%)**
+
 - English: [Neso Academy OS](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) · [freeCodeCamp OS](https://youtu.be/yK1uBHPdp30)
 - Urdu/Hindi: [Gate Smashers OS](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p) · [Recluze OS](https://www.youtube.com/playlist?list=PLnd7R4Mcw3rLVqVWxTlC99FeDbzjJZO-F)
 - Practice: [GeeksForGeeks OS quizzes](https://www.geeksforgeeks.org/quizzes/quiz-on-operating-system-basics/) · [Sanfoundry OS MCQs](https://www.sanfoundry.com/operating-system-questions-answers/)
 
 **10. Cyber Security (5%)**
+
 - English: [John Hammond](https://www.youtube.com/playlist?list=PL1H1sBF1VAKVoU6Q2u7BBGPsnkn-rajlp) · [NetworkChuck ethical hacking](https://www.youtube.com/playlist?list=PLIhvC56v63IIJZRa3lzK6IeBQOH_VFjUQ)
 - Hindi: [Bitten Tech](https://www.youtube.com/@BittenTech/playlists) · [Gate Smashers security](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
 - Practice: [TryHackMe Pre-Security](https://tryhackme.com/path/outline/presecurity) · [PortSwigger Web Security Academy](https://portswigger.net/web-security/all-labs)
